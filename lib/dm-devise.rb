@@ -1,6 +1,6 @@
 require 'devise'
 require 'dm-core'
-require 'dm-serializer'
+require 'dm-serializer/to_xml'
 require 'dm-timestamps'
 require 'dm-rails'
 
